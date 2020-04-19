@@ -15,5 +15,11 @@ public class testngbasic {
 		driver.close();
 		
 	}
+	
+	@Test
+	public void testc2()
+	{
+		System.out.println("test case2");
+	}
 
 }
